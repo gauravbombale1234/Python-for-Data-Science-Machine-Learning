@@ -76,11 +76,11 @@ This repository contains materials and projects from the Udemy course "Python fo
 
 ## Projects
 
-- [Home Prices](./projects/homeprices)
-- [Linear Regression House Price](./projects/linear_regression_houseprice)
-- [Mall Customer Data](./projects/mallCustomerData)
-- [Movie ID Titles](./projects/Movie_Id_Titles)
-- [Recommender Systems with Python](./projects/Recommender+Systems+with+Python)
+- [Home Prices]
+- [Linear Regression House Price]
+- [Mall Customer Data]
+- [Movie ID Titles]
+- [Recommender Systems with Python]
 
 ## Useful Links
 
